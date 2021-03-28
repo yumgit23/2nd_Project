@@ -1,0 +1,29 @@
+#write-form td {
+    border: none;
+}
+#write-form textarea {
+    width: 99%;
+}
+body {
+  font: 11px "Malgun Gothic", Malgun Gothic, Malgun Gothic;
+  text-align: center;
+}
+td{
+	 font: 12px "Malgun Gothic", Malgun Gothic, Malgun Gothic;
+}
+.bbs-table{
+text-align: center;
+width: 450px;
+margin: 0 auto;
+}
+.btn{
+	border: 1px solid #000;
+	background: #000;
+	color: #fff;
+	padding: 5px 15px;
+	box-sizing: border-box;
+	transform: translateY(1px);
+	transition: all 0.3s;
+	font-size: 1em;
+	text-decoration: 	none;
+}

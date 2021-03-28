@@ -1,0 +1,84 @@
+#content {
+    margin-left: 180px;
+    margin-right: 210px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 0.8em;
+    line-height: 1.6;
+}
+
+
+.bbs-table {
+	letter-spacing: 1px;
+    width: 50%;
+    align:center;
+    margin: 10em 0 0 0;
+    font-size: 12px;
+}
+.bbs-table th {
+    color: rgb(92, 92, 92);
+    border-bottom: 1px solid rgb(192, 192, 192);
+}
+#t1{
+	text-align: center;
+}
+
+.bbs-table td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgb(192, 192, 192);
+    line-height: 1.45;
+}
+.bbs-table td a {
+    color: #555;
+    text-decoration: none;
+}
+.bbs-table td a:hover {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+#paging {
+    text-align: center;
+    font-size: 13px;
+}
+#paging > a {
+    color: #555;
+    text-decoration: none;
+}
+#paging > a:hover {
+    color: #555;
+
+}
+
+.bbs-strong {
+    color: #FFA500;
+    font-weight: bold;
+}
+
+#list-menu {
+    text-align: center;
+}
+
+#search {
+    text-align: center;
+    
+}
+
+.btn {
+	border: 1px solid #000;
+	background: #000;
+	color: #fff;
+	padding: 5px 15px;
+	box-sizing: border-box;
+	transform: translateY(1px);
+	transition: all 0.3s;
+	font-size: 0.7em;
+	text-decoration: none;
+}
+
+.qna {
+	width: 77px;height: 106px;
+    padding: 10px;	
+	
+}
